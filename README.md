@@ -4,10 +4,10 @@
 
 ## Description
 
-This repo contains a visualizer written in python to animate the HDF5 data of the open access datasets you can find via the following links:
+This repo contains a visualizer to animate the HDF5 data of the open access datasets:
 
-* TODO: include link for TUK 6 minutes dataset here ...
-* TODO: include link for Humanoid robot dataset here ...
+* [6-Minute-Walking-Dataset](https://doi.org/10.5281/zenodo.10253111)
+* [Humanoid-Robot-Dataset](https://doi.org/10.5281/zenodo.10253284)
 
 To inspect the data and view, e.g. the data hierarchy of the HDF5 files, we suggest to use [Panoply](https://www.giss.nasa.gov/tools/panoply/). 
 
@@ -23,10 +23,10 @@ Assuming that python3 is installed, you can install the required dependencies as
 This was tested on Ubuntu 22.04 LTS.
 
 ## Getting started
-To visualize the HDF5 files we suggest to mount the data folder to the "data" folder of the repo. Assuming that you downloaded the data to the folder with the path "PATHTOYOURDATAFOLDER" you can mount the folder via the following command, executed from the repo root:
+To visualize the HDF5 files we suggest to mount the data folder to the "data" folder of the repo. Assuming that you downloaded the data to the folder with the path "PATH-TO-YOUR-DATAFOLDER" you can mount the folder via the following command, executed from the repo root:
 
 ```
-> sudo mount -bind PATHTOYOURDATAFOLDER data
+> sudo mount -bind PATH-TO-YOUR-DATA-FOLDER data
 ```
 
 After mounting the data you can visualize the data via 
