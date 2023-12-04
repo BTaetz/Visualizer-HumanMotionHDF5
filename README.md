@@ -4,14 +4,14 @@
 
 ## Description
 
-This repo contains a visualizer to animate the HDF5 data of the open access datasets:
+This repository contains a visualizer to animate the HDF5 data of the open access datasets:
 
 * [6-Minute-Walking-Dataset](https://doi.org/10.5281/zenodo.10253111)
-* [Humanoid-Robot-Dataset](https://doi.org/10.5281/zenodo.10253284)
+* [Humanoid-Robot-Dataset](https://doi.org/10.5281/zenodo.10253284).
 
-To inspect the data and view, e.g. the data hierarchy of the HDF5 files, we suggest to use [Panoply](https://www.giss.nasa.gov/tools/panoply/). 
+To inspect the data and view, e.g. the data hierarchy of the HDF5 files, we recommend [Panoply](https://www.giss.nasa.gov/tools/panoply/). 
 
-To visualize the BVH files from the dataset we recommend to use [Blender](https://www.blender.org/download/) 
+To visualize the BVH files from the dataset we recommend to use [Blender](https://www.blender.org/download/). 
 
 ## Installation
 
